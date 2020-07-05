@@ -1,0 +1,18 @@
+[package]
+name = "x11server"
+version = "0.1.0"
+authors = ["Alexander Korolev <kilork@yandex.ru>"]
+edition = "2018"
+categories = []
+description = """
+x11server description.
+"""
+homepage = "https://github.com/x11rs/x11server"
+keywords = []
+license = "Unlicense OR MIT"
+readme = "README.md"
+repository = "https://github.com/x11rs/x11server"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
